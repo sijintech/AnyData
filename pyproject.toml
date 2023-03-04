@@ -1,0 +1,19 @@
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.poetry]
+name = "anydata"
+version = "0.1.0"
+description = "A general purpose data sicense SDK"
+authors = ["Sijin Information Technology <support@sijintech.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+numpy = "^1.20"
+pandas = "^1.2"
+scikit-learn = "^0.24"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2"
