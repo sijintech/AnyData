@@ -1,6 +1,6 @@
 # AnyData
 
-General purpose data science SDK.
+General purpose data science SDK for non-programmers.
 
 ## Roadmap
 
@@ -26,3 +26,4 @@ social scientist, business school researshers
 
 1. a cli tool to help you initialize your project
 2. a customizable anydata python package containing common data science functions
+3. experience and procedures for large dataset (>1T)
