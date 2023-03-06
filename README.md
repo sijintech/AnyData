@@ -1,6 +1,14 @@
 # AnyData
 
-General purpose data science SDK
+General purpose data science SDK.
+
+## Roadmap
+
+- Phase 1: collect best practices, examples
+- Phase 2: refactor the best practices into useful functions
+- Phase 3: add cli, automation, etc to make the user experience complete
+
+For now we are in the Phase 1.
 
 ## Pain point
 
@@ -12,11 +20,9 @@ Many data scientists (broad concept, any one who needs to process datasets) prog
 
 ## Targeting audience
 
-## Our rule
+social scientist, business school researshers
 
-1. 
-
-## Featuring
+## Featuring (future)
 
 1. a cli tool to help you initialize your project
 2. a customizable anydata python package containing common data science functions
